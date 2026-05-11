@@ -26,9 +26,9 @@ The repository is divided into four distinct parts.
 - [affect_data](notebooks_gpu/affect_data_bf.txt): the empirical dataset used in this paper
   
 ### [jupyter notebook](notebooks_gpu)
-- [inference_hcdm_gpu](notebooks_gpu/inference_hcdm_gpu.ipynb): code for simulating data from the HCDM on a GPU (raw cuda kernel), code for using the simulated data to train neural networks and learn a HCDM posterior estimator with amortized Bayesian inference (ABI), and code for the inference on the empirical dataset
-- [inference_bddm_gpu](notebooks_gpu/inference_bddm_gpu.ipynb): code for simulating data from the BDDM on a GPU (raw cuda kernel), code for using the simulated data to train neural networks and learn a BDDM posterior estimator with ABI, and code for the inference on the empirical dataset
-- [model_comparison_gpu](notebooks_gpu/model_comparison.ipynb): code for simulating data from both HCDM and BDDM, code using the simulated data to train neural networks and learn a probabilistic classifier between two models with amortized Bayesian model comparison (ABMC), code for the model comparison based on the empirical dataset
+- [inference_hcdm_gpu](notebooks_gpu/inference_hcdm_gpu.ipynb): code for simulating data from the HCDM on a GPU (raw cuda kernels), code for using the simulated data to train neural networks and learn a HCDM posterior estimator with amortized Bayesian inference (ABI), and code for the inference on the empirical dataset
+- [inference_bddm_gpu](notebooks_gpu/inference_bddm_gpu.ipynb): code for simulating data from the BDDM on a GPU (raw cuda kernels), code for using the simulated data to train neural networks and learn a BDDM posterior estimator with ABI, and code for the inference on the empirical dataset
+- [model_comparison_gpu](notebooks_gpu/model_comparison.ipynb): code for simulating data from both HCDM and BDDM (raw cuda kernels), code using the simulated data to train neural networks and learn a probabilistic classifier between two models with amortized Bayesian model comparison (ABMC), code for the model comparison based on the empirical dataset
 
 ## [notebooks_cpu](notebooks_cpu)
 
