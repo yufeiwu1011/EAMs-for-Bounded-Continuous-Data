@@ -42,7 +42,7 @@ The repository is divided into four distinct parts.
 ## Note
 The training data in [inference_bddm_gpu](notebooks_gpu/inference_bddm_gpu.ipynb), [model_comparison_gpu](notebool_gpu/model_comparison_gpu.ipynb), and [inference_bddm_cpu](notebooks_cpu/inference_bddm_cpu.ipynb) are not included in this repository due to its size. Readers are encouraged to simulate and store their own training data. To reproduce the results, please load the pre-trained neural networks from [networks](networks).
 
-If you have any questions, please feel free to contact me at [yufei.wu@kuleuven.be].
+If you have any questions, please feel free to contact me at [yufei.wu@kuleuven.be](mailto:yufei.wu@kuleuven.be?subject=Question%20about%20EAMs%20repo).
 
 ## License
 
